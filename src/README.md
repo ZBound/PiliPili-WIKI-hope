@@ -14,7 +14,7 @@ actions:
     type: primary
 
   - text: 关于我们
-    link: ./about/
+    link: ./about/001
 
 
 copyright: false
