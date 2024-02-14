@@ -6,26 +6,22 @@ export default navbar([
     icon: "home",
     link:   "/",
   },
+    {
+    text: "进阶配置",
+    icon: "gears",
+    link:   "advanced/001",
+  },
   {
     text: "常见问题",
     icon: "question-circle",
-    link:   "/",
-  },
- {
-        text: "客户端教程",
-		icon: "gears",
-        children: [
-          { text: "Apple 系列", link: "https://t.me/PiliPiliTv" },
-          { text: "安卓系列", link: "https://t.me/PiliPiliUltraTv_bot" },
-		  { text: "Windows", link: "https://t.me/PiliPiliUltraTv_bot" },
-		  { text: "Linux", link: "https://t.me/PiliPiliUltraTv_bot" },
-    ],
+    link:   "question",
   },
   {
         text: "联系我们",
 		icon: "comments",
         children: [
           { text: "讨论组", link: "https://t.me/PiliPiliTv" },
+		  { text: "更新频道", link: "https://t.me/PiliPiliTv_Notify" },
           { text: "开号bot", link: "https://t.me/PiliPiliUltraTv_bot" },
     ],
   },
