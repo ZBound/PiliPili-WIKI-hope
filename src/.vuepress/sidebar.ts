@@ -6,7 +6,7 @@ export default sidebar({
       text: "关于我们",
       icon: "user-group",
       prefix: "about/",
-      link: "about/001",
+      link: "about/",
       children: "structure",
     },
     {
