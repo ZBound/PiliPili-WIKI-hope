@@ -15,9 +15,13 @@ export default hopeTheme({
 
   logo: "/logo.webp",
 
-
+  
   docsDir: "src",
-
+  
+  toc: true,
+  
+ // 贡献者
+  contributors: false,
   // 导航栏
   navbar,
 

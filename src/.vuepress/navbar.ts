@@ -11,6 +11,16 @@ export default navbar([
     icon: "question-circle",
     link:   "/",
   },
+ {
+        text: "客户端推荐",
+		icon: "comments",
+        children: [
+          { text: "Apple 系列", link: "https://t.me/PiliPiliTv" },
+          { text: "安卓系列", link: "https://t.me/PiliPiliUltraTv_bot" },
+		  { text: "Windows", link: "https://t.me/PiliPiliUltraTv_bot" },
+		  { text: "Linux", link: "https://t.me/PiliPiliUltraTv_bot" },
+    ],
+  },
   {
         text: "联系我们",
 		icon: "comments",
