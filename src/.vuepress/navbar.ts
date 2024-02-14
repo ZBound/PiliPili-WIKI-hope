@@ -9,7 +9,7 @@ export default navbar([
     {
     text: "进阶配置",
     icon: "gears",
-    link:   "advanced",
+    link:   "advanced/",
   },
   {
     text: "常见问题",
