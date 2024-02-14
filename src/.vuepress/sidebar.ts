@@ -13,14 +13,14 @@ export default sidebar({
       text: "快速开始",
       icon: "lightbulb",
       prefix: "quick/",
-      link: "quick/001",
+      link: "quick/",
       children: "structure",
     },
    {
       text: "进阶配置",
       icon: "gears",
       prefix: "advanced/",
-      link: "advanced/001",
+      link: "advanced/",
       children: "structure",
     },
 	{
