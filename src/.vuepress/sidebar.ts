@@ -6,7 +6,7 @@ export default sidebar({
       text: "快速开始",
       icon: "laptop-code",
       prefix: "quick/",
-      link: "quick/",
+      link: "quick/001",
       children: "structure",
     },
   ],

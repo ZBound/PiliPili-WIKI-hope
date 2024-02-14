@@ -12,8 +12,8 @@ export default navbar([
     link:   "/",
   },
  {
-        text: "客户端推荐",
-		icon: "comments",
+        text: "客户端教程",
+		icon: "gears",
         children: [
           { text: "Apple 系列", link: "https://t.me/PiliPiliTv" },
           { text: "安卓系列", link: "https://t.me/PiliPiliUltraTv_bot" },
