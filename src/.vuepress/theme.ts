@@ -45,9 +45,12 @@ export default hopeTheme({
       components: ["Badge", "VPCard","BiliBili"],
     },
       
-	searchPro: true,
-
-
+docsearch: {
+	indexName: 
+  appId: 'OOBSL6JRTO',
+  apiKey: '1de3a192051c090c599a2a789a6fd96d',
+  indexName: 'touhou',
+      },
 
 
 
