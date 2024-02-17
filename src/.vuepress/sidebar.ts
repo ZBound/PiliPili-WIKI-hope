@@ -17,7 +17,7 @@ export default sidebar({
       children: "structure",
     },
    {
-      text: "进阶配置",
+      text: "进阶教程",
       icon: "gears",
       prefix: "advanced/",
       link: "advanced/",
