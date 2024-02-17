@@ -46,9 +46,9 @@ export default hopeTheme({
     },
       
 docsearch: {
-  appid: 'OOBSL6JRTO',
-  apiKey: '1de3a192051c090c599a2a789a6fd96d',
-  indexName: 'touhou',
+  appId: "OOBSL6JRTO",
+  apiKey: "c1ec4d56e2db14e355742773ed4586b2",
+  indexName: "touhou",
 },
 
 
