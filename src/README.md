@@ -19,7 +19,8 @@ actions:
 backToTop: false
 
 copyright: false
-footer: <p>Copyright © 2023-2024 PiliPili<br>本WIKI所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a> 许可协议</p>
+
+footer: <p>Copyright © 2023-2024 PiliPili Emby<br>本WIKI所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a> 许可协议</p>
 
  
 
