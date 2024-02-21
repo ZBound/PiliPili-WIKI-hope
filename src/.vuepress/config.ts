@@ -14,7 +14,7 @@ export default defineUserConfig({
       'link',
       {
         rel: 'stylesheet',
-        href: 'https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-web/style.css',
+        href: 'https://registry.npmmirror.com/lxgw-wenkai-screen-web/latest/files/style.css',
       },
     ],
     // 可以继续添加其他 head 元素
