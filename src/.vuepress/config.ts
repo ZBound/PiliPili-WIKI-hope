@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: "PiliPili WIKI",
   theme,
   head: [
-    // 引入露香园文楷屏幕版字体
+    // 引入文楷屏幕版字体
     [
       'link',
       {
