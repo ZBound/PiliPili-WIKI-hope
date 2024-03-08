@@ -21,7 +21,7 @@ export default navbar([
 		icon: "comments",
         children: [
           { text: "讨论组", link: "https://t.me/PiliPiliTv" },
-		  { text: "更新频道", link: "https://t.me/PiliPiliTv_Notify" },
+		  { text: "更新频道", link: "https://t.me/PiLiPiLi_TV" },
           { text: "开号bot", link: "https://t.me/PiliPiliUltraTv_bot" },
     ],
   },
