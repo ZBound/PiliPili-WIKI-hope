@@ -50,7 +50,7 @@ PiliPili Emby 分为动漫库和新番库
 
 ## Yamby 相关问题
 
-[Yamby wiki](https://yamby-wiki.vercel.app/zh-cn/)
+**[Yamby wiki](https://yamby-wiki.vercel.app/zh-cn/)**
 ### 同一个播放环境，Emby客户端都能看，而yamby有些视频能看，有些视频播放报错？
 非 PRO 版本使用的是几乎未添加拓展的 EXO 播放器，只能使用硬解，无法使用软解。硬解效率高，但只能播放dsp等硬件设计支持的格式；软解效率低，但兼容性好。
 常见安卓端不支持硬解格式有：yuv444，h.264 10bit，rmvb等
